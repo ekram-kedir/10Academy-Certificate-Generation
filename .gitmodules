@@ -1,0 +1,3 @@
+[submodule "10Academy-Certificate-Generation-frontend"]
+	path = 10Academy-Certificate-Generation-frontend
+	url = https://github.com/ekram-kedir/10Academy-Certificate-Generation-frontend.git
