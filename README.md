@@ -1,1 +1,1 @@
-# 10Academy-Certificate-GenerationGeneration
+# 10Academy-Certificate-Generation
